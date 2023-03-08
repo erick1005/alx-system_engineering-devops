@@ -9,3 +9,4 @@
 8-firstdelete deletes a file in a folder
 9-firstdirdelete deletes a directory inside another
 10-back changes directory from current to previous
+11-list list all files in all directories and subdirectories
