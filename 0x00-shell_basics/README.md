@@ -6,3 +6,4 @@
 5-listfilesdigitonly list files in long format with users ids
 6-firstdirectory creates a directory in the tmp directory
 7-movethatfile moves a file to another folder
+8-firstdelete deletes a file in a folder
