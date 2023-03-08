@@ -5,3 +5,4 @@
 4-listmore files list all files icluding hidden ones in long format
 5-listfilesdigitonly list files in long format with users ids
 6-firstdirectory creates a directory in the tmp directory
+7-movethatfile moves a file to another folder
