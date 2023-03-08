@@ -1,3 +1,3 @@
 0-current working directory; prints the absolute path name of the current working directory
-1-listit; Display the contents list of your current directory
-
+1-listit list all the contents in the current directory
+2-bring me home changes from the current directory to home directory
