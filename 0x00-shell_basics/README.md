@@ -13,3 +13,4 @@
 12-filetype prints the type of the file in folder
 13-symboliclink creating a symbolic link in the current directory
 14-copyhtml copies allhtml files to a specific destination
+100-letsmove moves all files with capital letter at the beggining
