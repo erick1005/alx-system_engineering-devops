@@ -8,3 +8,4 @@
 7-gives execution permission to all
 8-gives all permission to others and none to the user and group
 9-gives specific permissions to each user
+10-copies permissions of one file to another
