@@ -2,3 +2,4 @@
 1-displays the effective user
 2-list all groups the crrent user is apart of
 3-change file ownership to betty
+4-creates an empty file
