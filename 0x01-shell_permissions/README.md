@@ -10,3 +10,4 @@
 9-gives specific permissions to each user
 10-copies permissions of one file to another
 11- adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
+12-creates a directory called mydir with permissions 751 in the working directory.
