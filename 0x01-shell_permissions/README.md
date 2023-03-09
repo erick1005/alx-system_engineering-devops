@@ -3,3 +3,4 @@
 2-list all groups the crrent user is apart of
 3-change file ownership to betty
 4-creates an empty file
+5-add execute permission to the owner of the file
