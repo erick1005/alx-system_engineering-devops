@@ -11,4 +11,5 @@
 10-removes all js files
 11-counts directorie
 12-counts ten newest files
-13-printing unique list 
+13-printing unique list
+14-Display lines containing the pattern 
