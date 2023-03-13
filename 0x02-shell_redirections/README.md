@@ -15,4 +15,5 @@
 14-Display lines containing the pattern
 15-Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 16-Display lines containing the pattern “root” and 3 lines after them in the file 
-17-hide word 
+17-hide word
+18-lines starting with letters 
