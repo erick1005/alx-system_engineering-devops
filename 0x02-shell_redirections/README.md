@@ -16,4 +16,5 @@
 15-Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 16-Display lines containing the pattern “root” and 3 lines after them in the file 
 17-hide word
-18-lines starting with letters 
+18-lines starting with letters
+19-eplace all characters A and c from input to Z and e respectively 
