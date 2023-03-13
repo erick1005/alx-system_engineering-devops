@@ -19,4 +19,5 @@
 18-lines starting with letters
 19-eplace all characters A and c from input to Z and e respectively
 20- removes all letters c and C from input
+21-reverse input
 22-list all users with their hom dirs 
