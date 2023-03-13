@@ -12,4 +12,5 @@
 11-counts directorie
 12-counts ten newest files
 13-printing unique list
-14-Display lines containing the pattern 
+14-Display lines containing the pattern
+15-Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd. 
