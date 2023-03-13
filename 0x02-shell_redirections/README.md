@@ -9,4 +9,5 @@
 8- Save current state of directory
 9-copies the last line of the file
 10-removes all js files
-11-counts directories 
+11-counts directorie
+12-counts ten newest files 
