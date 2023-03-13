@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -al R | egrep -c '^d'
+ls -laR | egrep -c '^d'
