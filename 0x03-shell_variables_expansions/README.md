@@ -5,3 +5,4 @@
 4-print environmental variables
 5- lists all local variables and environment variables, and functions.
 6-creates a local variable
+7-creates global variable
