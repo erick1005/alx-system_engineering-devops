@@ -6,3 +6,4 @@
 5- lists all local variables and environment variables, and functions.
 6-creates a local variable
 7-creates global variable
+8-prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE
