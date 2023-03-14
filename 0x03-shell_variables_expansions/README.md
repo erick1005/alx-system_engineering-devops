@@ -2,3 +2,4 @@
 1-prints hello user
 2-adds a folder to a path
 3-count folders in path
+4-print environmental variables
